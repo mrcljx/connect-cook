@@ -1,0 +1,30 @@
+{
+    "author": "Marcel Jackwerth <marceljackwerth@gmail.com>"
+  , "name": "connect-cook"
+  , "version": "0.0.0"
+
+  , "repository": {
+    "url": ""
+  }
+
+  , "main": "src/index.coffee"
+
+  , "engines": {
+    "node": "~0.6.5"
+  }
+
+  , "dependencies": {
+      "coffee-script": ""
+    , "underscore": ""
+    , "underscore.string": ""
+    , "async": ""
+  }
+
+  , "optionalDependencies": {
+      "connect": ""
+    , "jade": ""
+    , "stylus": ""
+    , "nib": ""
+    , "less": ""
+  }
+}
